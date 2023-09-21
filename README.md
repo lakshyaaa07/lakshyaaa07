@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyaaa07&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyaaa07" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mainhoonlakshya" target="blank"><img src="https://img.shields.io/twitter/follow/mainhoonlakshya?logo=twitter&style=for-the-badge" alt="mainhoonlakshya" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aimISlakshya" target="blank"><img src="https://img.shields.io/twitter/follow/aimISlakshya?logo=twitter&style=for-the-badge" alt="aimISlakshya" /></a> </p>
 
 - 🔭 I’m currently working on **Making my own attractive portfolio website**
 
@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mainhoonlakshya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mainhoonlakshya" height="30" width="40" /></a>
-<a href="https://instagram.com/lakshya._.fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshya._.fr" height="30" width="40" /></a>
+<a href="https://twitter.com/aimISlakshya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aimISlakshya" height="30" width="40" /></a>
+<a href="https://instagram.com/lakshyaaa__jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshyaaa__jain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
