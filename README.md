@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Making my own attractive portfolio website**
 
-- 🌱 I’m currently learning **DSA with Java, MySQL, pgAdmin4, Bootstrap,Node.js, React.js, MongoDB**
+- 🌱 I’m currently learning **DSA with Java, Astro, Node.js, React.js, MongoDB**
 
-- 💬 Ask me about **JAVA, HTML, CSS**
+- 💬 Ask me about **JAVA, HTML, CSS, MySQL, pgAdmin4, Bootstrap**
 
 - 📫 How to reach me **jainlakshya07@gmail.com**
 
