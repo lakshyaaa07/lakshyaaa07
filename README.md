@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/aimISlakshya" target="blank"><img src="https://img.shields.io/twitter/follow/aimISlakshya?logo=twitter&style=for-the-badge" alt="aimISlakshya" /></a> </p>
 
-- 🔭 I’m currently working on **Duo Studio Website inspired from Dribble's Designs**
+- 🔭 I’m currently working on **some revolutionary idea!**
 
-- 🌱 I’m currently learning **Python Django, Astro, MERN Stack**
+- 🌱 I’m currently learning **AI and Data Science, React.js**
 
-- 💬 Ask me about **JAVA, Python, HTML, CSS, JavaScript, MySQL, pgAdmin4, Bootstrap, DS with Java, Databases**
+- 💬 Ask me about **JAVA, Python, HTML, CSS, JavaScript, MySQL, pgAdmin4, Bootstrap, DS with Java, Databases, etc**
 
 - 📫 How to reach me **jainlakshya07@gmail.com**
 
