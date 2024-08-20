@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **some revolutionary idea!**
 
-- 🌱 I’m currently learning **AI and Data Science, React.js**
+- 🌱 I’m currently learning **ML and Data Science, Next.js**
 
-- 💬 Ask me about **JAVA, Python, HTML, CSS, JavaScript, MySQL, pgAdmin4, Bootstrap, DS with Java, Databases, etc**
+- 💬 Ask me about **Python, Java, React.js, JavaScript, MySQL, pgAdmin4, Dockers, DS, Databases, etc**
 
 - 📫 How to reach me **jainlakshya07@gmail.com**
 
